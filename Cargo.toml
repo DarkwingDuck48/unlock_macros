@@ -1,13 +1,13 @@
 [package]
 name = "unlock_macro"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 rust-version = "1.88"
 description = "Inspect, remove, and reset the \"Lock project for viewing\" password in Excel VBA projects"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/DarkwingDuck48/unlock_macro"
-homepage = "https://github.com/DarkwingDuck48/unlock_macro"
+repository = "https://github.com/DarkwingDuck48/unlock_macros"
+homepage = "https://github.com/DarkwingDuck48/unlock_macros"
 keywords = ["vba", "excel", "ooxml", "ms-ovba", "cli"]
 categories = ["command-line-utilities"]
 
